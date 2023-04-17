@@ -1,3 +1,8 @@
+# Nonsense App (aka Social Media Clone)
+
+_by John Diggins_
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
